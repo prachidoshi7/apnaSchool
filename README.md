@@ -1,4 +1,4 @@
 # apnaSchool
 This is my second repository
 <br>
-Author-Prachi Doshi
+Author-Prachi Doshi(apna school)
